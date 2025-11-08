@@ -1,7 +1,7 @@
 # Arduino-project
 Ideas: 
 
-1- Estación espacial:
+1- Estación meteorológica:
 Materiales: arduino UNO, breadboard, pantalla LCD
 
 2- Sensor aparcamiento:
