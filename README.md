@@ -2,7 +2,7 @@
 Ideas: 
 
 1- Estación meteorológica:
-Materiales: arduino UNO, breadboard, pantalla LCD
+Materiales: arduino UNO, breadboard, pantalla LCD, sensor de humedad
 
 2- Sensor aparcamiento:
 Materiales: arduino UNO, breadboard, servomotor, sensor ultrasónico de distancia
