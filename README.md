@@ -20,3 +20,10 @@ Hoy hemos finalizado el montaje básico de la estación meteorológica. Aún que
 También hemos comenzado a desarrollar el código. Todavía falta integrar la lectura del sensor de humedad y añadir algunos mini-proyectos complementarios que queremos incorporar, pero como punto de partida el progreso es muy sólido.
 
 ¡Seguimos avanzando! 🚀
+
+🔧 Estación Meteorológica — Día 2
+
+Hoy hemos finalizado el código principal del proyecto, incorporando las funciones necesarias para que el programa sea más limpio, modular y fácil de mantener.
+Además, hemos comenzado con el montaje físico definitivo de la estación meteorológica.
+
+Por ahora, solo queda integrar el sensor de humedad(DHT11) y añadir su respectiva librería y funcionalidad en el código.
